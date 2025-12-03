@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Generator",
+  "description": "A professional AI-powered content generation tool using Google Gemini to create social media captions, blog ideas, product descriptions, and email templates.",
+  "requestFramePermissions": []
+}
